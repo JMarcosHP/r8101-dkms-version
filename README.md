@@ -1,4 +1,5 @@
 # r8101-dkms-version
+# English 
 How to install:
 
 Step 0: Make sure you have installed the developer tools (build-essential, etc) and kernel headers. If not, then install it first.
@@ -22,6 +23,7 @@ NOTE: This module includes patches for the following Linux kernel versions: 4.4.
 
 DISCLAIMER: I'm not responsible for the misuse of the code or if your system stops working or becomes unstable.
 
+# Español
 Cómo instalar:
 
 Paso 0: Antes de comenzar checa si tienes instalado las herramientas de compilación para tu distro y las cabeceras del núcleo. De lo contrario instálalo primero.
